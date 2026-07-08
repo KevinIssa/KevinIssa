@@ -6,7 +6,7 @@ Junior Data Engineer based in Belgium with a background in Computer Science. I e
 
 - 📍 Based in Belgium
 - 💼 Junior Data Engineer
-- 🎓 Background in Computer Science
+- 🎓 Bachelor in Computer Science
 - 🛠️ Interested in Data Engineering, Databases, and Software Development
 - ☁️ Databricks Certified Data Engineer Associate
 - ☁️ Microsoft Certified: Azure Data Fundamentals (DP-900)
