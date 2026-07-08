@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Kevin Issa 👋
 
-<!--
-**KevinIssa/KevinIssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Engineer based in Belgium with a background in Computer Science. I enjoy building reliable data solutions, designing efficient data models, and creating maintainable data pipelines.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Based in Belgium
+- 💼 Junior Data Engineer
+- 🎓 Background in Computer Science
+- 🛠️ Interested in Data Engineering, Databases, and Software Development
+- ☁️ Databricks Certified Data Engineer Associate
+- ☁️ Microsoft Certified: Azure Data Fundamentals (DP-900)
+- 💻 Working with SQL, Python, Java, C/C++, Apache Spark, Databricks, ETL/ELT, and Data Modeling
+- 📚 Passionate about clean code, collaboration, and continuous learning
+
+> *Always learning, always building.*
