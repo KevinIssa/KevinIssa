@@ -1,4 +1,4 @@
-# Hi, I'm Kevin Issa 👋
+# Hi, I'm Kevin 👋
 
 Junior Data Engineer based in Belgium with a background in Computer Science. I enjoy building reliable data solutions, designing efficient data models, and creating maintainable data pipelines.
 
